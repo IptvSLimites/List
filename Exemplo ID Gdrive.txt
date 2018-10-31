@@ -7,16 +7,16 @@
 
 
 <item>
-<title></title>
-<id></id>
+<title>Teste</title>
+<id>1JhrXFNhY3ufyLE1jygRWKsJwqa6m1Nex</id>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <type>Desenhos</type>
 </item>
 
 <item>
-<title></title>
-<id></id>
+<title>Lista</title>
+<id>https://raw.githubusercontent.com/IptvSLimites/List/master/MvInfo_Canais.m3u</id>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <type>Desenhos</type>
