@@ -1,0 +1,903 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E
+http://lista.digitalgroup.me:80/live/silvas/silvas/1120.ts
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5078.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://img.starbr.in/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC
+http://lista.digitalgroup.me:80/live/silvas/silvas/9609.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://img.starbr.in/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26029.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://img.starbr.in/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/15406.ts
+#EXTINF:-1 tvg-id="ANIMAL" tvg-logo="http://img.starbr.in/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET
+http://lista.digitalgroup.me:80/live/silvas/silvas/1719.ts
+#EXTINF:-1 tvg-id="ANIMAL" tvg-logo="http://img.starbr.in/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1117.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Variedades e Musicas",ARTE 1
+http://lista.digitalgroup.me:80/live/silvas/silvas/1218.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Variedades e Musicas",ARTE 1 HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20795.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN
+http://lista.digitalgroup.me:80/live/silvas/silvas/1712.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5033.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1114.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="http://img.starbr.in/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="Infantil",BABY TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/11970.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="http://img.starbr.in/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="Infantil",BABY TV HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20796.ts
+#EXTINF:-1 tvg-id="BANDEIRANTES" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND
+http://lista.digitalgroup.me:80/live/silvas/silvas/1713.ts
+#EXTINF:-1 tvg-id="BANDEIRANTES" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND CAMPINAS
+http://lista.digitalgroup.me:80/live/silvas/silvas/20797.ts
+#EXTINF:-1 tvg-id="BANDEIRANTES" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND CAMPINAS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20798.ts
+#EXTINF:-1 tvg-id="BANDEIRANTES" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1108.ts
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="http://img.starbr.in/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS
+http://lista.digitalgroup.me:80/live/silvas/silvas/1107.ts
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="http://img.starbr.in/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18028.ts
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-logo="http://img.starbr.in/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/17951.ts
+#EXTINF:-1 tvg-id="BANDEIRANTES" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND RIBEIRAO PRETO
+http://lista.digitalgroup.me:80/live/silvas/silvas/20799.ts
+#EXTINF:-1 tvg-id="BANDEIRANTES" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND RIBEIRAO PRETO HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20800.ts
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-logo="http://img.starbr.in/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS
+http://lista.digitalgroup.me:80/live/silvas/silvas/1106.ts
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-logo="http://img.starbr.in/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5034.ts
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-logo="http://img.starbr.in/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2407.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24184.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24185.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24186.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2408.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24187.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1104.ts
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26028.ts
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://img.starbr.in/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="Infantil",BOOMERANG
+http://lista.digitalgroup.me:80/live/silvas/silvas/1102.ts
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://img.starbr.in/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="Infantil",BOOMERANG HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20801.ts
+#EXTINF:-1 tvg-id="BRASIL" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="Filmes e Series",CANAL BRASIL (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24742.ts
+#EXTINF:-1 tvg-id="BRASIL" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="Filmes e Series",CANAL BRASIL (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24743.ts
+#EXTINF:-1 tvg-id="BRASIL" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="Filmes e Series",CANAL BRASIL (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24744.ts
+#EXTINF:-1 tvg-id="BRASIL" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="Filmes e Series",CANAL BRASIL (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1098.ts
+#EXTINF:-1 tvg-id="BRASIL" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="Filmes e Series",CANAL BRASIL (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24745.ts
+#EXTINF:-1 tvg-id="BRASIL" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="Filmes e Series",CANAL BRASIL (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/5079.ts
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-logo="http://img.starbr.in/1516240659_f50cab41690186033375a9eae750347086a1be91.png" group-title="Variedades e Musicas",CANAL DO BOI
+http://lista.digitalgroup.me:80/live/silvas/silvas/2382.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="http://img.starbr.in/1516240748_46b32c28a6d6106aebe235e8d58ffd49d006db10.png" group-title="Variedades e Musicas",CANAL RURAL
+http://lista.digitalgroup.me:80/live/silvas/silvas/2482.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Infantil",CARTOON NETWORK
+http://lista.digitalgroup.me:80/live/silvas/silvas/1095.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Infantil",CARTOON NETWORK FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26032.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Infantil",CARTOON NETWORK HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2479.ts
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://img.starbr.in/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="Filmes e Series",CINEMAX
+http://lista.digitalgroup.me:80/live/silvas/silvas/2483.ts
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://img.starbr.in/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="Filmes e Series",CINEMAX FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26027.ts
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://img.starbr.in/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="Filmes e Series",CINEMAX HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5080.ts
+#EXTINF:-1 tvg-id="CNN E" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516366348_a0447fe4732253295484dca4c1f64c04c036e397.png" group-title="Noticias",CNN ESPANHOL
+http://lista.digitalgroup.me:80/live/silvas/silvas/18033.ts
+#EXTINF:-1 tvg-id="CNNi" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516366348_a0447fe4732253295484dca4c1f64c04c036e397.png" group-title="Noticias",CNN INTERNACIONAL
+http://lista.digitalgroup.me:80/live/silvas/silvas/18029.ts
+#EXTINF:-1 tvg-id="CNT RIO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516366498_2e32879e27a2bff11748103dbec2f785e214f16f.png" group-title="Canais Abertos",CNT
+http://lista.digitalgroup.me:80/live/silvas/silvas/18031.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22439.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22440.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22441.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1089.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22442.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1088.ts
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18019.ts
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://img.starbr.in/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="Variedades e Musicas",COMEDY CENTRAL
+http://lista.digitalgroup.me:80/live/silvas/silvas/2484.ts
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://img.starbr.in/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="Variedades e Musicas",COMEDY CENTRAL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/16004.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="http://img.starbr.in/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.png" group-title="Canais Abertos",CULTURA
+http://lista.digitalgroup.me:80/live/silvas/silvas/2505.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="http://img.starbr.in/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.png" group-title="Canais Abertos",CULTURA HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20804.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://img.starbr.in/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.png" group-title="Variedades e Musicas",CURTA
+http://lista.digitalgroup.me:80/live/silvas/silvas/2485.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-logo="http://img.starbr.in/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.png" group-title="Variedades e Musicas",CURTA HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20802.ts
+#EXTINF:-1 tvg-id="Deutsch" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516305516_77cab92729423d0f0a4b871269aacf2b084c36d9.jpg" group-title="Noticias",DEUTSCH+
+http://lista.digitalgroup.me:80/live/silvas/silvas/18034.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL
+http://lista.digitalgroup.me:80/live/silvas/silvas/1084.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5035.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2410.ts
+#EXTINF:-1 tvg-id="DISC CIVILIZATION" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="Documentarios",DISCOVERY CIVILIZATION
+http://lista.digitalgroup.me:80/live/silvas/silvas/20805.ts
+#EXTINF:-1 tvg-id="DISC CIVILIZATION" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="Documentarios",DISCOVERY CIVILIZATION FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26026.ts
+#EXTINF:-1 tvg-id="DISC CIVILIZATION" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="Documentarios",DISCOVERY CIVILIZATION HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/16005.ts
+#EXTINF:-1 tvg-id="DISC HEALTH" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH
+http://lista.digitalgroup.me:80/live/silvas/silvas/2399.ts
+#EXTINF:-1 tvg-id="DISC HEALTH" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1082.ts
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="" group-title="Infantil",DISCOVERY KIDS
+http://lista.digitalgroup.me:80/live/silvas/silvas/1080.ts
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="Infantil",DISCOVERY KIDS FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26025.ts
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="Infantil",DISCOVERY KIDS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5081.ts
+#EXTINF:-1 tvg-id="DISC SCIENCE" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE
+http://lista.digitalgroup.me:80/live/silvas/silvas/20806.ts
+#EXTINF:-1 tvg-id="DISC SCIENCE" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26024.ts
+#EXTINF:-1 tvg-id="DISC SCIENCE" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/16006.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://img.starbr.in/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="Documentarios",DISCOVERY THEATER
+http://lista.digitalgroup.me:80/live/silvas/silvas/20807.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://img.starbr.in/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="Documentarios",DISCOVERY THEATER FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26023.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://img.starbr.in/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="Documentarios",DISCOVERY THEATER HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2460.ts
+#EXTINF:-1 tvg-id="DISC TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO
+http://lista.digitalgroup.me:80/live/silvas/silvas/1072.ts
+#EXTINF:-1 tvg-id="DISC TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5038.ts
+#EXTINF:-1 tvg-id="DISC TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2411.ts
+#EXTINF:-1 tvg-id="DISC WORLD HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20808.ts
+#EXTINF:-1 tvg-id="DISC WORLD HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26022.ts
+#EXTINF:-1 tvg-id="DISC WORLD HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2461.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="Infantil",DISNEY CHANNEL
+http://lista.digitalgroup.me:80/live/silvas/silvas/1071.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="Infantil",DISNEY CHANNEL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5082.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR
+http://lista.digitalgroup.me:80/live/silvas/silvas/1068.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26021.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20809.ts
+#EXTINF:-1 tvg-id="DISNEY HD" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="Infantil",DISNEY XD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1065.ts
+#EXTINF:-1 tvg-id="DISNEY HD" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="Infantil",DISNEY XD HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20810.ts
+#EXTINF:-1 tvg-id="E" tvg-logo="http://img.starbr.in/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.png" group-title="Noticias",E! HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5083.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN
+http://lista.digitalgroup.me:80/live/silvas/silvas/1718.ts
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN  FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26043.ts
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://img.starbr.in/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="Esportes",ESPN BRASIL FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26045.ts
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN EXTRA HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20813.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26044.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1129.ts
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://img.starbr.in/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="Esportes",ESPN+
+http://lista.digitalgroup.me:80/live/silvas/silvas/2395.ts
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://img.starbr.in/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="Esportes",ESPN+ HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2394.ts
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://img.starbr.in/1516307200_1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Variedades e Musicas",FISH TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/1050.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://img.starbr.in/1516307200_1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Variedades e Musicas",FISH TV HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20814.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK
+http://lista.digitalgroup.me:80/live/silvas/silvas/1049.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26041.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5084.ts
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://img.starbr.in/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="Filmes e Series",FOX
+http://lista.digitalgroup.me:80/live/silvas/silvas/1329.ts
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://img.starbr.in/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="Filmes e Series",FOX FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18020.ts
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://img.starbr.in/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="Filmes e Series",FOX HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1047.ts
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="Variedades e Musicas",FOX LIFE
+http://lista.digitalgroup.me:80/live/silvas/silvas/1038.ts
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="Variedades e Musicas",FOX LIFE HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1037.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="http://img.starbr.in/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.png" group-title="Filmes e Series",FOX PREMIUM 1
+http://lista.digitalgroup.me:80/live/silvas/silvas/20815.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="http://img.starbr.in/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.png" group-title="Filmes e Series",FOX PREMIUM 1 HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2464.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-logo="http://img.starbr.in/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.png" group-title="Filmes e Series",FOX PREMIUM 2
+http://lista.digitalgroup.me:80/live/silvas/silvas/20816.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-logo="http://img.starbr.in/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.png" group-title="Filmes e Series",FOX PREMIUM 2 HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2465.ts
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://img.starbr.in/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="Esportes",FOX SPORTS
+http://lista.digitalgroup.me:80/live/silvas/silvas/2391.ts
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://img.starbr.in/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2
+http://lista.digitalgroup.me:80/live/silvas/silvas/1717.ts
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://img.starbr.in/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2 FULL
+http://lista.digitalgroup.me:80/live/silvas/silvas/26031.ts
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://img.starbr.in/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2 HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1031.ts
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://img.starbr.in/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="Esportes",FOX SPORTS FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18021.ts
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://img.starbr.in/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="Esportes",FOX SPORTS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1033.ts
+#EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA
+http://lista.digitalgroup.me:80/live/silvas/silvas/1029.ts
+#EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20803.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://img.starbr.in/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="Filmes e Series",FX
+http://lista.digitalgroup.me:80/live/silvas/silvas/1028.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://img.starbr.in/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="Filmes e Series",FX FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26040.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://img.starbr.in/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="Filmes e Series",FX HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2386.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516309822_fdfd48a76cad6e5d06962b996fcd279c454458f9.png" group-title="Canais Abertos",GLOBO BAHIA
+http://lista.digitalgroup.me:80/live/silvas/silvas/19420.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22360.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22361.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22362.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2512.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22363.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/17121.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA (3475)
+http://lista.digitalgroup.me:80/live/silvas/silvas/21804.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.png" group-title="Canais Abertos",GLOBO EPTV CAMPINAS
+http://lista.digitalgroup.me:80/live/silvas/silvas/17962.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.png" group-title="Canais Abertos",GLOBO EPTV CAMPINAS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20811.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.png" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO
+http://lista.digitalgroup.me:80/live/silvas/silvas/17852.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.png" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/17853.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.png" group-title="Canais Abertos",GLOBO EPTV SAO CARLOS
+http://lista.digitalgroup.me:80/live/silvas/silvas/18035.ts
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-logo="http://img.starbr.in/1517850037_2ea2a89ca5ef3d787edf4974f375dfcaf1b3c411.png" group-title="Canais Abertos",GLOBO INTER TV CABUGI
+http://lista.digitalgroup.me:80/live/silvas/silvas/16209.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24740.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22365.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24741.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2412.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22367.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/17129.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG (3475)
+http://lista.digitalgroup.me:80/live/silvas/silvas/21803.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23977.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23978.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23979.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1027.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23980.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="Noticias",GLOBO NEWS (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/5085.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23966.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22369.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22370.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/15405.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22371.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/17130.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE (3475)
+http://lista.digitalgroup.me:80/live/silvas/silvas/21802.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="http://img.starbr.in/1516309333_973dc34e63c1522fbb58b1a30e3342b23e822eab.jpg" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE
+http://lista.digitalgroup.me:80/live/silvas/silvas/968.ts
+#EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-logo="http://img.starbr.in/1516309483_735a74b4adb0e362e860525a83da78fbe808dbfd.jpg" group-title="Canais Abertos",GLOBO REDE AMAZONICA
+http://lista.digitalgroup.me:80/live/silvas/silvas/9580.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22206.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22207.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22208.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2508.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22209.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1207.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ (3475)
+http://lista.digitalgroup.me:80/live/silvas/silvas/21801.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516309597_de3d058376d7cf5def92916e7917d8157f77cd73.jpg" group-title="Canais Abertos",GLOBO RPC CURITIBA
+http://lista.digitalgroup.me:80/live/silvas/silvas/18032.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22356.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22357.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22358.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1024.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22359.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/17122.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP (3475)
+http://lista.digitalgroup.me:80/live/silvas/silvas/21800.ts
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://img.starbr.in/1516309728_c8f74e65175084144128b6b1cdec66c654fcb178.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA
+http://lista.digitalgroup.me:80/live/silvas/silvas/2511.ts
+#EXTINF:-1 tvg-id="TV CENTRO AMERICA" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516308804_6ce4ce15aa7de400356094d5545dc1a7a79be47f.png" group-title="Canais Abertos",GLOBO TV CENTRO AMERICA
+http://lista.digitalgroup.me:80/live/silvas/silvas/18036.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos",GLOBO TV GAZETA ES
+http://lista.digitalgroup.me:80/live/silvas/silvas/24485.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516363058_06b12bb9de0c903ebe7dc33edf6bd5d4cea6d705.png" group-title="Canais Abertos",GLOBO TV GAZETA ES HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/24484.ts
+#EXTINF:-1 tvg-id="TV Liberal Belem" tvg-logo="http://img.starbr.in/1517850963_7a5ca0031c6a16d93a0f7ce5bedc84ecd7b96b2e.jpg" group-title="Canais Abertos",GLOBO TV LIBERAL BELEM
+http://lista.digitalgroup.me:80/live/silvas/silvas/16217.ts
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516309920_44809f7c8b8537828ecb0ab9e102f6fd8988db50.png" group-title="Canais Abertos",GLOBO TV TEM BAURU
+http://lista.digitalgroup.me:80/live/silvas/silvas/24482.ts
+#EXTINF:-1 tvg-id="TV Rio Preto SJRP" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516309920_44809f7c8b8537828ecb0ab9e102f6fd8988db50.png" group-title="Canais Abertos",GLOBO TV TEM SAO JOSE DO RIO PRETO
+http://lista.digitalgroup.me:80/live/silvas/silvas/18038.ts
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516309920_44809f7c8b8537828ecb0ab9e102f6fd8988db50.png" group-title="Canais Abertos",GLOBO TV TEM SOROCABA
+http://lista.digitalgroup.me:80/live/silvas/silvas/24483.ts
+#EXTINF:-1 tvg-id="TV Vanguarda SJC" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516367115_29f210a222461d3ebaccc4f28cc2dbf2ec37e08f.jpg" group-title="Canais Abertos",GLOBO TV VANGUARDA SAO JOSE DOS CAMPOS
+http://lista.digitalgroup.me:80/live/silvas/silvas/18039.ts
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-logo="http://img.starbr.in/1516310368_d0d69b49778b45e6e8a2c577545ad880e98fd290.png" group-title="Canais Abertos",GLOBO TV VERDES MARES
+http://lista.digitalgroup.me:80/live/silvas/silvas/9583.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB
+http://lista.digitalgroup.me:80/live/silvas/silvas/1023.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5086.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23973.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23974.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23975.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/17135.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23976.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/17136.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24287.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24288.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24289.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1022.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24290.ts
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2466.ts
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2
+http://lista.digitalgroup.me:80/live/silvas/silvas/2486.ts
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5056.ts
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2 HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1021.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://img.starbr.in/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="Filmes e Series",HBO
+http://lista.digitalgroup.me:80/live/silvas/silvas/1020.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="http://img.starbr.in/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="Filmes e Series",HBO 2
+http://lista.digitalgroup.me:80/live/silvas/silvas/2489.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="http://img.starbr.in/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="Filmes e Series",HBO 2 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26039.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="http://img.starbr.in/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="Filmes e Series",HBO 2 HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1017.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://img.starbr.in/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="Filmes e Series",HBO FAMILY
+http://lista.digitalgroup.me:80/live/silvas/silvas/1016.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://img.starbr.in/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="Filmes e Series",HBO FAMILY FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26038.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://img.starbr.in/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="Filmes e Series",HBO FAMILY HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2392.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://img.starbr.in/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="Filmes e Series",HBO FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26037.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://img.starbr.in/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="Filmes e Series",HBO HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1209.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://img.starbr.in/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="Filmes e Series",HBO PLUS
+http://lista.digitalgroup.me:80/live/silvas/silvas/1014.ts
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-logo="http://img.starbr.in/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="Filmes e Series",HBO PLUS E
+http://lista.digitalgroup.me:80/live/silvas/silvas/2487.ts
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-logo="http://img.starbr.in/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="Filmes e Series",HBO PLUS E HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20817.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://img.starbr.in/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="Filmes e Series",HBO PLUS FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26036.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://img.starbr.in/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="Filmes e Series",HBO PLUS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2467.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://img.starbr.in/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="Filmes e Series",HBO SIGNATURE
+http://lista.digitalgroup.me:80/live/silvas/silvas/2488.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://img.starbr.in/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="Filmes e Series",HBO SIGNATURE FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26035.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://img.starbr.in/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="Filmes e Series",HBO SIGNATURE HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1013.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.starbr.in/1522864448_23513029d9a7119c14b062ad27e11db67900350f.jpg" group-title="Variedades e Musicas",HIT TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/17790.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.starbr.in/1522864448_23513029d9a7119c14b062ad27e11db67900350f.jpg" group-title="Variedades e Musicas",HIT TV HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/17792.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-logo="http://img.starbr.in/1516311942_1302d76c455434caa25aab1c21f3484da662d29a.png" group-title="Canais Abertos",IDEAL TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/2491.ts
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://img.starbr.in/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="Documentarios",INVESTIGACAO DISCOVERY
+http://lista.digitalgroup.me:80/live/silvas/silvas/1011.ts
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://img.starbr.in/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="Documentarios",INVESTIGACAO DISCOVERY HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2469.ts
+#EXTINF:-1 tvg-id="ISAT" tvg-logo="http://img.starbr.in/1516311856_0a07415f1bd72f9c6e8dad71c5957859d222174d.jpg" group-title="Filmes e Series",I-SAT
+http://lista.digitalgroup.me:80/live/silvas/silvas/2490.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME
+http://lista.digitalgroup.me:80/live/silvas/silvas/2492.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26034.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5087.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT
+http://lista.digitalgroup.me:80/live/silvas/silvas/1008.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5088.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="http://img.starbr.in/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="Filmes e Series",MAX
+http://lista.digitalgroup.me:80/live/silvas/silvas/1007.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="http://img.starbr.in/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="Filmes e Series",MAX FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26033.ts
+#EXTINF:-1 tvg-id="MAX" tvg-logo="http://img.starbr.in/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="Filmes e Series",MAX HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5089.ts
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="Filmes e Series",MAX PRIME
+http://lista.digitalgroup.me:80/live/silvas/silvas/1006.ts
+#EXTINF:-1 tvg-id="MAX PRIME E" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="Filmes e Series",MAX PRIME E
+http://lista.digitalgroup.me:80/live/silvas/silvas/2493.ts
+#EXTINF:-1 tvg-id="MAX PRIME E" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="Filmes e Series",MAX PRIME E HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20818.ts
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="Filmes e Series",MAX PRIME HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5090.ts
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://img.starbr.in/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.png" group-title="Filmes e Series",MAX UP
+http://lista.digitalgroup.me:80/live/silvas/silvas/1005.ts
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://img.starbr.in/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.png" group-title="Filmes e Series",MAX UP HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5091.ts
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://img.starbr.in/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="Filmes e Series",MEGAPIX
+http://lista.digitalgroup.me:80/live/silvas/silvas/1004.ts
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://img.starbr.in/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="Filmes e Series",MEGAPIX FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26019.ts
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://img.starbr.in/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="Filmes e Series",MEGAPIX HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2470.ts
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://img.starbr.in/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="Variedades e Musicas",MTV
+http://lista.digitalgroup.me:80/live/silvas/silvas/1000.ts
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://img.starbr.in/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="Variedades e Musicas",MTV FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26018.ts
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://img.starbr.in/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="Variedades e Musicas",MTV HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5092.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24283.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24284.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24285.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1211.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/24286.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2385.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26017.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="http://img.starbr.in/1516320851_ad26c1db9961cdf5e77cc25591abf6c39a92bc65.png" group-title="Variedades e Musicas",MUSIC BOX BRASIL
+http://lista.digitalgroup.me:80/live/silvas/silvas/997.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://img.starbr.in/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="Infantil",NATGEO KIDS
+http://lista.digitalgroup.me:80/live/silvas/silvas/11965.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://img.starbr.in/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="Infantil",NATGEO KIDS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/11996.ts
+#EXTINF:-1 tvg-id="NATGEO WILD HD" tvg-logo="http://img.starbr.in/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="Documentarios",NATGEO WILD
+http://lista.digitalgroup.me:80/live/silvas/silvas/995.ts
+#EXTINF:-1 tvg-id="NATGEO WILD HD" tvg-logo="http://img.starbr.in/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="Documentarios",NATGEO WILD FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18022.ts
+#EXTINF:-1 tvg-id="NATGEO WILD HD" tvg-logo="http://img.starbr.in/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="Documentarios",NATGEO WILD HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/994.ts
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS
+http://lista.digitalgroup.me:80/live/silvas/silvas/991.ts
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26016.ts
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/990.ts
+#EXTINF:-1 tvg-id="NBR" tvg-logo="http://img.starbr.in/1516319421_c56ca4d0d282ee259bee00a383b3ea8771d1f0fb.png" group-title="Canais Abertos",NBR
+http://lista.digitalgroup.me:80/live/silvas/silvas/2494.ts
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-logo="http://img.starbr.in/1516319547_a5b042dca03dd1c4315c3657556e41e1f968a8de.jpg" group-title="Variedades e Musicas",NHK
+http://lista.digitalgroup.me:80/live/silvas/silvas/2495.ts
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-logo="http://img.starbr.in/1516319547_a5b042dca03dd1c4315c3657556e41e1f968a8de.jpg" group-title="Variedades e Musicas",NHK HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20819.ts
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="Infantil",NICK
+http://lista.digitalgroup.me:80/live/silvas/silvas/1206.ts
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="Infantil",NICK FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26015.ts
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="Infantil",NICK HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5093.ts
+#EXTINF:-1 tvg-id="NICKJR" tvg-logo="http://img.starbr.in/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="Infantil",NICK JR
+http://lista.digitalgroup.me:80/live/silvas/silvas/986.ts
+#EXTINF:-1 tvg-id="NICKJR" tvg-logo="http://img.starbr.in/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="Infantil",NICK JR HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/16210.ts
+#EXTINF:-1 tvg-id="Novo Canal" tvg-logo="http://img.starbr.in/1516319889_086b0e3a880d171f1ac1ff5d1d6530fffc486210.png" group-title="Variedades e Musicas",NOVO CANAL
+http://lista.digitalgroup.me:80/live/silvas/silvas/11985.ts
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF
+http://lista.digitalgroup.me:80/live/silvas/silvas/1219.ts
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2471.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="http://img.starbr.in/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="Filmes e Series",PARAMOUNT CHANNEL
+http://lista.digitalgroup.me:80/live/silvas/silvas/980.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="http://img.starbr.in/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="Filmes e Series",PARAMOUNT CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26014.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="http://img.starbr.in/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="Filmes e Series",PARAMOUNT CHANNEL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2472.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-logo="http://img.starbr.in/1516320348_da821a69369fd55a113d2fc5aedd2072c87dee09.jpg" group-title="Variedades e Musicas",PLAY TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/2497.ts
+
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25251.ts
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25252.ts
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25253.ts
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/978.ts
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25254.ts
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1213.ts
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5062.ts
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25235.ts
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25236.ts
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25237.ts
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/977.ts
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25238.ts
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1214.ts
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18023.ts
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25247.ts
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25248.ts
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25249.ts
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/976.ts
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25250.ts
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1215.ts
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5063.ts
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25239.ts
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25240.ts
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25241.ts
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/975.ts
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25242.ts
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1216.ts
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5064.ts
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25754.ts
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25755.ts
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25756.ts
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/974.ts
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25757.ts
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/16211.ts
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18024.ts
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7
+http://lista.digitalgroup.me:80/live/silvas/silvas/973.ts
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18025.ts
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/16213.ts
+#EXTINF:-1 tvg-id="PREMIERE8" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 8
+http://lista.digitalgroup.me:80/live/silvas/silvas/972.ts
+#EXTINF:-1 tvg-id="Premiere 9" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 9
+http://lista.digitalgroup.me:80/live/silvas/silvas/971.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25243.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25244.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25245.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/970.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/25246.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1714.ts
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5065.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://img.starbr.in/1516322935_e965839bf1ec73cbf0309d15c7efbf654570741c.png" group-title="Variedades e Musicas",PRIME BOX BRASIL
+http://lista.digitalgroup.me:80/live/silvas/silvas/969.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://img.starbr.in/1516322935_e965839bf1ec73cbf0309d15c7efbf654570741c.png" group-title="Variedades e Musicas",PRIME BOX BRASIL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20821.ts
+#EXTINF:-1 tvg-id="Rai Italia" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516323134_8f1caebb1cda2956f60b8342d3136310dc0b94f6.png" group-title="Variedades e Musicas",RAI
+http://lista.digitalgroup.me:80/live/silvas/silvas/18044.ts
+#EXTINF:-1 tvg-id="RCI" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516323631_497d8823e197d397b015018affc5bfb02a6ebdd3.jpg" group-title="Variedades e Musicas",RCI
+http://lista.digitalgroup.me:80/live/silvas/silvas/18043.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.starbr.in/1516323861_37d026864285af817142ea9734915a3ce1f03c69.jpg" group-title="Esportes",REAL MADRID TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/967.ts
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1710.ts
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26013.ts
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1210.ts
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://img.starbr.in/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="Noticias",RECORD NEWS
+http://lista.digitalgroup.me:80/live/silvas/silvas/966.ts
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://img.starbr.in/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="Noticias",RECORD NEWS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2400.ts
+#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="http://img.starbr.in/1516324212_b256b8d6d2018b476c15b2e123c02e8705842b48.png" group-title="Canais Abertos",REDE BRASIL
+http://lista.digitalgroup.me:80/live/silvas/silvas/965.ts
+#EXTINF:-1 tvg-id="REDETV" tvg-logo="http://img.starbr.in/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais Abertos",REDE TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/963.ts
+#EXTINF:-1 tvg-id="REDETV" tvg-logo="http://img.starbr.in/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais Abertos",REDE TV HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2406.ts
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT
+http://lista.digitalgroup.me:80/live/silvas/silvas/955.ts
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1208.ts
+#EXTINF:-1 tvg-id="SescTV" tvg-logo="http://img.starbr.in/1516325090_9d096efad6628587c43586e99b0c2ea9038ab263.png" group-title="Canais Abertos",SESC TV HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/953.ts
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-logo="http://img.starbr.in/1516325174_3b17ad7b795246982d2c7f9a014044062fe77902.jpg" group-title="Variedades e Musicas",SIC INTERNATIONAL
+http://lista.digitalgroup.me:80/live/silvas/silvas/952.ts
+#EXTINF:-1 tvg-id="SONY" tvg-logo="http://img.starbr.in/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="Filmes e Series",SONY
+http://lista.digitalgroup.me:80/live/silvas/silvas/1096.ts
+#EXTINF:-1 tvg-id="SONY" tvg-logo="http://img.starbr.in/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="Filmes e Series",SONY FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26012.ts
+#EXTINF:-1 tvg-id="SONY" tvg-logo="http://img.starbr.in/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="Filmes e Series",SONY HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2409.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://img.starbr.in/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="Filmes e Series",SPACE
+http://lista.digitalgroup.me:80/live/silvas/silvas/2501.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://img.starbr.in/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="Filmes e Series",SPACE FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26011.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://img.starbr.in/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="Filmes e Series",SPACE HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/1327.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22443.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22444.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22445.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/943.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22446.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/1203.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5067.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22447.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22448.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22449.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/942.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22450.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2401.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26030.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22451.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22452.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22453.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/941.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/22454.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2402.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26010.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://img.starbr.in/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.png" group-title="Filmes e Series",STUDIO UNIVERSAL
+http://lista.digitalgroup.me:80/live/silvas/silvas/2384.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://img.starbr.in/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.png" group-title="Filmes e Series",STUDIO UNIVERSAL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5094.ts
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-logo="http://img.starbr.in/1527042976_999ea2c4d99181623023e588926357d3bbfa7e71.png" group-title="Filmes e Series",SUNDANCE
+http://lista.digitalgroup.me:80/live/silvas/silvas/20828.ts
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-logo="http://img.starbr.in/1527042976_999ea2c4d99181623023e588926357d3bbfa7e71.png" group-title="Filmes e Series",SUNDANCE FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26009.ts
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-logo="http://img.starbr.in/1527042976_999ea2c4d99181623023e588926357d3bbfa7e71.png" group-title="Filmes e Series",SUNDANCE HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20829.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://img.starbr.in/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="Filmes e Series",SYFY
+http://lista.digitalgroup.me:80/live/silvas/silvas/939.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://img.starbr.in/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="Filmes e Series",SYFY FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26008.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://img.starbr.in/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="Filmes e Series",SYFY HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18087.ts
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://img.starbr.in/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="Filmes e Series",TBS
+http://lista.digitalgroup.me:80/live/silvas/silvas/937.ts
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://img.starbr.in/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="Filmes e Series",TBS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2473.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="Filmes e Series",TC ACTION
+http://lista.digitalgroup.me:80/live/silvas/silvas/935.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="Filmes e Series",TC ACTION FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5069.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="Filmes e Series",TC ACTION HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/936.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Filmes e Series",TC CULT
+http://lista.digitalgroup.me:80/live/silvas/silvas/933.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Filmes e Series",TC CULT FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18026.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Filmes e Series",TC CULT HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5096.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="Filmes e Series",TC FUN
+http://lista.digitalgroup.me:80/live/silvas/silvas/931.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="Filmes e Series",TC FUN FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/18027.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="Filmes e Series",TC FUN HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/932.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="Filmes e Series",TC PIPOCA
+http://lista.digitalgroup.me:80/live/silvas/silvas/929.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="Filmes e Series",TC PIPOCA FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5070.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="Filmes e Series",TC PIPOCA HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/930.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="Filmes e Series",TC PREMIUM
+http://lista.digitalgroup.me:80/live/silvas/silvas/2415.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="Filmes e Series",TC PREMIUM FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5071.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="Filmes e Series",TC PREMIUM HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/928.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://img.starbr.in/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="Filmes e Series",TC TOUCH
+http://lista.digitalgroup.me:80/live/silvas/silvas/926.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://img.starbr.in/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="Filmes e Series",TC TOUCH HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/927.ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://img.starbr.in/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="Filmes e Series",TCM
+http://lista.digitalgroup.me:80/live/silvas/silvas/925.ts
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://img.starbr.in/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="Filmes e Series",TCM HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20830.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="http://img.starbr.in/1516361793_1877bdbd45e7263cd94eb22697f19ff409543c3c.png" group-title="Variedades e Musicas",TERRA VIVA
+http://lista.digitalgroup.me:80/live/silvas/silvas/2504.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL
+http://lista.digitalgroup.me:80/live/silvas/silvas/923.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/16216.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2468.ts
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="http://img.starbr.in/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="Variedades e Musicas",TLC
+http://lista.digitalgroup.me:80/live/silvas/silvas/922.ts
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="http://img.starbr.in/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="Variedades e Musicas",TLC HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5097.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://img.starbr.in/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="Filmes e Series",TNT
+http://lista.digitalgroup.me:80/live/silvas/silvas/921.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://img.starbr.in/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="Filmes e Series",TNT FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5073.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://img.starbr.in/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="Filmes e Series",TNT HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2383.ts
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES
+http://lista.digitalgroup.me:80/live/silvas/silvas/1204.ts
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5074.ts
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2474.ts
+#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://img.starbr.in/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="Infantil",TOONCAST
+http://lista.digitalgroup.me:80/live/silvas/silvas/919.ts
+#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://img.starbr.in/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="Infantil",TOONCAST HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/17974.ts
+#EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://img.starbr.in/1516362361_4210102befbcd3b65ecd86dbb4bd6a24ad8fa580.png" group-title="Variedades e Musicas",TRU TV
+http://lista.digitalgroup.me:80/live/silvas/silvas/917.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://img.starbr.in/1516362459_9ece7586b661712fd16d5e620986f12e5034f0c2.png" group-title="Canais Abertos",TV BRASIL
+http://lista.digitalgroup.me:80/live/silvas/silvas/915.ts
+#EXTINF:-1 tvg-id="TV Camara" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516362583_bddce2bd0fe46d6ded38048f4566cfb405a5a1c0.jpg" group-title="Canais Abertos",TV CAMARA
+http://lista.digitalgroup.me:80/live/silvas/silvas/18042.ts
+
+#EXTINF:-1 tvg-id="TV Gazeta ES" tvg-logo="" group-title="Variedades e Musicas",TV GAZETA
+http://lista.digitalgroup.me:80/live/silvas/silvas/11973.ts
+
+#EXTINF:-1 tvg-id="TV Gazeta ES" tvg-logo="http://img.starbr.in/1516363058_06b12bb9de0c903ebe7dc33edf6bd5d4cea6d705.png" group-title="Variedades e Musicas",TV GAZETA HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20832.ts
+#EXTINF:-1 tvg-id="TV GERAL" tvg-logo="http://img.starbr.in/1516363263_58e1a6f2e59d0ce12b9041d95adfca619e1c22c0.png" group-title="Canais Abertos",TV GERAL
+http://lista.digitalgroup.me:80/live/silvas/silvas/2413.ts
+#EXTINF:-1 tvg-id="TV Justica" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516363376_329c8cfc4e784bfaef6c92de99131cfeb509279b.png" group-title="Canais Abertos",TV JUSTICA
+http://lista.digitalgroup.me:80/live/silvas/silvas/18041.ts
+
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://img.starbr.in/1516363809_4b06002618c33f47714df184c93b0319e70927cf.png" group-title="Infantil",TV RA TIM BUM
+http://lista.digitalgroup.me:80/live/silvas/silvas/2506.ts
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://img.starbr.in/1516363809_4b06002618c33f47714df184c93b0319e70927cf.png" group-title="Infantil",TV RA TIM BUM HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20822.ts
+#EXTINF:-1 tvg-id="TV Senado" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516363911_5da4625d9dabea2e1c21a8f6d7457cecd7dbd606.png" group-title="Canais Abertos",TV SENADO
+http://lista.digitalgroup.me:80/live/silvas/silvas/18040.ts
+#EXTINF:-1 tvg-id="TV5Monde Bresil" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516364012_6d23db79c70404f05bd44a29ba21f900b184f447.jpg" group-title="Variedades e Musicas",TV5 MONDE
+http://lista.digitalgroup.me:80/live/silvas/silvas/18046.ts
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://img.starbr.in/1516364124_83e17ed8cb85145d51af2dde51cfb05b4bf2038b.png" group-title="Canais Abertos",TVE
+http://lista.digitalgroup.me:80/live/silvas/silvas/2507.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://img.starbr.in/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="Filmes e Series",UNIVERSAL CHANNEL
+http://lista.digitalgroup.me:80/live/silvas/silvas/940.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://img.starbr.in/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="Filmes e Series",UNIVERSAL CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/26007.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://img.starbr.in/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="Filmes e Series",UNIVERSAL CHANNEL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2475.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="http://img.starbr.in/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="Variedades e Musicas",VH1 MEGA HITS
+http://lista.digitalgroup.me:80/live/silvas/silvas/898.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-logo="http://img.starbr.in/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="Variedades e Musicas",VH1 MEGA HITS HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/5098.ts
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA (0264)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23981.ts
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA (0407)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23982.ts
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA (0626)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23983.ts
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA (0964)
+http://lista.digitalgroup.me:80/live/silvas/silvas/897.ts
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA (1485)
+http://lista.digitalgroup.me:80/live/silvas/silvas/23984.ts
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA (2316)
+http://lista.digitalgroup.me:80/live/silvas/silvas/2476.ts
+#EXTINF:-1 tvg-id="WARNER" tvg-logo="http://img.starbr.in/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Filmes e Series",WARNER CHANNEL
+http://lista.digitalgroup.me:80/live/silvas/silvas/896.ts
+#EXTINF:-1 tvg-id="WARNER" tvg-logo="http://img.starbr.in/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Filmes e Series",WARNER CHANNEL HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/2478.ts
+#EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://img.starbr.in/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Variedades e Musicas",WOOHOO
+http://lista.digitalgroup.me:80/live/silvas/silvas/894.ts
+#EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://img.starbr.in/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Variedades e Musicas",WOOHOO HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/16214.ts
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516364766_7234ec7b71476b4b3b9d88c69f6cc7a3a3585f04.png" group-title="Infantil",ZOOMOO
+http://lista.digitalgroup.me:80/live/silvas/silvas/20833.ts
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516364766_7234ec7b71476b4b3b9d88c69f6cc7a3a3585f04.png" group-title="Infantil",ZOOMOO HD
+http://lista.digitalgroup.me:80/live/silvas/silvas/20834.ts
